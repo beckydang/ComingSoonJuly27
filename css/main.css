@@ -106,7 +106,7 @@ main{
 }
 
 aside{
-	width: 70%;
+	width: 60%;
 }
 
 aside p{
@@ -131,13 +131,9 @@ footer {
 	margin-top:145px;
 }
 
-.twitter{
+.twitter, .facebook, .linkedin {
 	font-size:14px;
 	margin-bottom:20px;
-}
-
-.facebook, .linkedin{
-	display:none;
 }
 
 i {
